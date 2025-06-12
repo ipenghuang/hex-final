@@ -234,4 +234,7 @@ body{
   .contact {
     display: none;
   }
+  .footer{
+    border-top: 1px solid black;
+  }
 }
